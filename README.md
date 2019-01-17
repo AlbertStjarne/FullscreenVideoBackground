@@ -3,7 +3,7 @@
 A fullscreen video background with HTML & CSS.
 
 
-<img src="./images/FullscreenVideoBackground.gif" width=350>
+<img src="FullscreenVideoBackground.gif" width=350>
 
 
 ## Author
